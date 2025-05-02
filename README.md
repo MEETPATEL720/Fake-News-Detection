@@ -6,4 +6,4 @@ Due to GitHub file size limits, dataset is not included here.
 🔗 Download the dataset from Kaggle:
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
-# Make sure Fake.csv and True.csv are in the same folder before running
+### Make sure Fake.csv and True.csv are in the same folder before running
